@@ -7,7 +7,7 @@ Customer churn (customers leaving a service) is a basic task for data scientists
 
 ## Data
 
-The data is from (Kaggle)[https://www.kaggle.com/blastchar/telco-customer-churn], and includes 21 features to predict "churn" or "no churn." Approximately 7000 customer
+The data is from [Kaggle](https://www.kaggle.com/blastchar/telco-customer-churn), and includes 21 features to predict "churn" or "no churn." Approximately 7000 customer
 records are included.
 
 ## Methods used
@@ -20,6 +20,6 @@ records are included.
 
 ## Results
 
-For each of four cohorts, accuracy scores were in the range of 70 to 80 percent. The area under the ROC curve
-was in the range of .75 to .91. 
+For each of four cohorts, churn prediction accuracy scores are in the range of 70 percent. See detailed discussion
+in the model.ipynb notebook. 
 
